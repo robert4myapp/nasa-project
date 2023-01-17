@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7ff910c9-208d-45c2-b25d-4fa2d2621b53" name="Changes" comment="First commit to support testing.">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/nasa_project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/img/background-large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/img/background-medium.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/img/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/img/glow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/sound/abort.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/sound/click.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/sound/deploy.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/sound/success.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/sound/typing.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/sound/warning.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Centered.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Clickable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/hooks/requests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/hooks/useLaunches.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/hooks/usePlanets.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/AppLayout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/History.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/Launch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/Upcoming.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/settings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongocredentials" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/data/kepler_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/public/asset-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/public/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/public/img/background-large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/public/img/background-medium.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/public/img/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/public/img/glow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/public/sound/abort.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/public/sound/click.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/public/sound/deploy.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/public/sound/success.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/public/sound/typing.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/public/sound/warning.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/models/launches.model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/models/launches.mongo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/models/planets.model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/models/planets.mongo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/routes/api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/routes/launches/launches.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/routes/launches/launches.router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/routes/launches/launches.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/routes/planets/planets.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/routes/planets/planets.router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/services/mongo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/services/query.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JSa7szIWm0TsEvCDH8Kq858owZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;18.12.1&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;18.11.18&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/robertpierson/WebstormProjects/nasa_project/server&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs.jest.jest_package&quot;: &quot;/Users/robertpierson/WebstormProjects/nasa_project/server/node_modules/jest&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;JavaScript.Libraries&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/server" />
+      <recent name="$PROJECT_DIR$/client" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client" />
+      <recent name="$PROJECT_DIR$/server/data" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ff910c9-208d-45c2-b25d-4fa2d2621b53" name="Changes" comment="" />
+      <created>1672073773794</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672073773794</updated>
+      <workItem from="1672073774841" duration="24000" />
+      <workItem from="1672165514964" duration="9606000" />
+      <workItem from="1672267493061" duration="8373000" />
+      <workItem from="1672422529863" duration="15612000" />
+      <workItem from="1672774426250" duration="5409000" />
+      <workItem from="1672870395932" duration="2779000" />
+      <workItem from="1672956421128" duration="4747000" />
+      <workItem from="1673034686971" duration="1357000" />
+      <workItem from="1673297366285" duration="7310000" />
+      <workItem from="1673906826194" duration="8758000" />
+      <workItem from="1673983423133" duration="1255000" />
+      <workItem from="1673997957009" duration="177000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName=".env" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit to support testing." />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit to support testing." />
+  </component>
+</project>
