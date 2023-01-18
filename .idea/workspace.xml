@@ -4,80 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ff910c9-208d-45c2-b25d-4fa2d2621b53" name="Changes" comment="First commit to support testing.">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/nasa_project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/img/background-large.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/img/background-medium.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/img/background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/img/glow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/sound/abort.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/sound/click.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/sound/deploy.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/sound/success.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/sound/typing.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/public/sound/warning.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/Centered.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/Clickable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/Footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/hooks/requests.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/hooks/useLaunches.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/hooks/usePlanets.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/pages/AppLayout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/pages/History.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/pages/Launch.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/pages/Upcoming.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/settings.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongocredentials" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/data/kepler_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/public/asset-manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/public/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/public/img/background-large.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/public/img/background-medium.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/public/img/background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/public/img/glow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/public/sound/abort.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/public/sound/click.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/public/sound/deploy.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/public/sound/success.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/public/sound/typing.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/public/sound/warning.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/models/launches.model.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/models/launches.mongo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/models/planets.model.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/models/planets.mongo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/routes/api.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/routes/launches/launches.controller.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/routes/launches/launches.router.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/routes/launches/launches.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/routes/planets/planets.controller.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/routes/planets/planets.router.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/services/mongo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/services/query.js" afterDir="false" />
+    <list default="true" id="7ff910c9-208d-45c2-b25d-4fa2d2621b53" name="Changes" comment="2nd Commit to Support Section 15 GitHubActions">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mongocredentials" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/src/services/mongo.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/services/mongo.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +22,15 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="robert-ci2" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/server/src/services/mongo.js" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -149,8 +87,17 @@
       <workItem from="1673297366285" duration="7310000" />
       <workItem from="1673906826194" duration="8758000" />
       <workItem from="1673983423133" duration="1255000" />
-      <workItem from="1673997957009" duration="177000" />
+      <workItem from="1673997957009" duration="2642000" />
+      <workItem from="1674058166940" duration="1758000" />
     </task>
+    <task id="LOCAL-00001" summary="2nd Commit to Support Section 15 GitHubActions">
+      <created>1673998688060</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673998688060</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,8 +106,20 @@
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName=".env" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit to support testing." />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit to support testing." />
+    <MESSAGE value="2nd Commit to Support Section 15 GitHubActions" />
+    <option name="LAST_COMMIT_MESSAGE" value="2nd Commit to Support Section 15 GitHubActions" />
   </component>
 </project>
