@@ -1,0 +1,53 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"7ff910c9-208d-45c2-b25d-4fa2d2621b53\" name=\"Changes\" comment=\"2nd Commit to Support Section 15 GitHubActions\">\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/mongocredentials\" beforeDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/server/src/services/mongo.js\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/server/src/services/mongo.js\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"JavaScript File\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\n      <map>\n        <entry key=\"$PROJECT_DIR$\" value=\"robert-ci2\" />\n      </map>\n    </option>\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"HighlightingSettingsPerFile\">\n    <setting file=\"file://$PROJECT_DIR$/server/src/services/mongo.js\" root0=\"FORCE_HIGHLIGHTING\" />\n  </component>\n  <component name=\"MarkdownSettingsMigration\">\n    <option name=\"stateVersion\" value=\"1\" />\n  </component>\n  <component name=\"ProjectId\" id=\"2JSa7szIWm0TsEvCDH8Kq858owZ\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">{\n  &quot;keyToString&quot;: {\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\n    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,\n    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;18.12.1&quot;,\n    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;18.11.18&quot;,\n    &quot;last_opened_file_path&quot;: &quot;/Users/robertpierson/WebstormProjects/nasa_project/server&quot;,\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\n    &quot;nodejs.jest.jest_package&quot;: &quot;/Users/robertpierson/WebstormProjects/nasa_project/server/node_modules/jest&quot;,\n    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,\n    &quot;settings.editor.selected.configurable&quot;: &quot;JavaScript.Libraries&quot;,\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\n  }\n}</component>\n  <component name=\"RecentsManager\">\n    <key name=\"CopyFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$/server\" />\n      <recent name=\"$PROJECT_DIR$/client\" />\n    </key>\n    <key name=\"MoveFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$/client\" />\n      <recent name=\"$PROJECT_DIR$/server/data\" />\n    </key>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"7ff910c9-208d-45c2-b25d-4fa2d2621b53\" name=\"Changes\" comment=\"\" />\n      <created>1672073773794</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1672073773794</updated>\n      <workItem from=\"1672073774841\" duration=\"24000\" />\n      <workItem from=\"1672165514964\" duration=\"9606000\" />\n      <workItem from=\"1672267493061\" duration=\"8373000\" />\n      <workItem from=\"1672422529863\" duration=\"15612000\" />\n      <workItem from=\"1672774426250\" duration=\"5409000\" />\n      <workItem from=\"1672870395932\" duration=\"2779000\" />\n      <workItem from=\"1672956421128\" duration=\"4747000\" />\n      <workItem from=\"1673034686971\" duration=\"1357000\" />\n      <workItem from=\"1673297366285\" duration=\"7310000\" />\n      <workItem from=\"1673906826194\" duration=\"8758000\" />\n      <workItem from=\"1673983423133\" duration=\"1255000\" />\n      <workItem from=\"1673997957009\" duration=\"2642000\" />\n      <workItem from=\"1674058166940\" duration=\"1758000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"2nd Commit to Support Section 15 GitHubActions\">\n      <created>1673998688060</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1673998688060</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"2\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"UnknownFeatures\">\n    <option featureType=\"com.intellij.fileTypeFactory\" implementationName=\".env\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"First commit to support testing.\" />\n    <MESSAGE value=\"2nd Commit to Support Section 15 GitHubActions\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"2nd Commit to Support Section 15 GitHubActions\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 2c628e22eff44d424ae0ac269dc28fffeb3ea632)
++++ b/.idea/workspace.xml	(date 1674060708452)
+@@ -6,8 +6,6 @@
+   <component name="ChangeListManager">
+     <list default="true" id="7ff910c9-208d-45c2-b25d-4fa2d2621b53" name="Changes" comment="2nd Commit to Support Section 15 GitHubActions">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/mongocredentials" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/server/src/services/mongo.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/services/mongo.js" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -24,7 +22,7 @@
+   <component name="Git.Settings">
+     <option name="RECENT_BRANCH_BY_REPOSITORY">
+       <map>
+-        <entry key="$PROJECT_DIR$" value="robert-ci2" />
++        <entry key="$PROJECT_DIR$" value="robert-ci" />
+       </map>
+     </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+@@ -88,7 +86,7 @@
+       <workItem from="1673906826194" duration="8758000" />
+       <workItem from="1673983423133" duration="1255000" />
+       <workItem from="1673997957009" duration="2642000" />
+-      <workItem from="1674058166940" duration="1758000" />
++      <workItem from="1674058166940" duration="2346000" />
+     </task>
+     <task id="LOCAL-00001" summary="2nd Commit to Support Section 15 GitHubActions">
+       <created>1673998688060</created>
+@@ -97,7 +95,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1673998688060</updated>
+     </task>
+-    <option name="localTasksCounter" value="2" />
++    <task id="LOCAL-00002" summary="2nd Commit to Support Section 15 GitHubActions">
++      <created>1674060096064</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1674060096064</updated>
++    </task>
++    <option name="localTasksCounter" value="3" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
