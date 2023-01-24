@@ -14,6 +14,6 @@ jobs:
         with:
           node-version: '18'
       - run: npm install
-      - run: npm run cd ../../client/build --prefix-client
+      - run: npm run cd build --prefix-client
 
 
