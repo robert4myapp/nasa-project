@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ff910c9-208d-45c2-b25d-4fa2d2621b53" name="Changes" comment="2nd Commit to Support Section 15 GitHubActions">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/node.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7ff910c9-208d-45c2-b25d-4fa2d2621b53" name="Changes" comment="Build pipeline workflow" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,7 +89,7 @@
       <workItem from="1673997957009" duration="2642000" />
       <workItem from="1674058166940" duration="1758000" />
       <workItem from="1674077268876" duration="210000" />
-      <workItem from="1674517587624" duration="1436000" />
+      <workItem from="1674517587624" duration="1743000" />
     </task>
     <task id="LOCAL-00001" summary="2nd Commit to Support Section 15 GitHubActions">
       <created>1673998688060</created>
@@ -122,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674518046353</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Build pipeline workflow">
+      <created>1674519409383</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674519409383</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,6 +149,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit to support testing." />
     <MESSAGE value="2nd Commit to Support Section 15 GitHubActions" />
-    <option name="LAST_COMMIT_MESSAGE" value="2nd Commit to Support Section 15 GitHubActions" />
+    <MESSAGE value="Build pipeline workflow" />
+    <option name="LAST_COMMIT_MESSAGE" value="Build pipeline workflow" />
   </component>
 </project>
