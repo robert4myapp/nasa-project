@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ff910c9-208d-45c2-b25d-4fa2d2621b53" name="Changes" comment="v4">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/node.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/node.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="7ff910c9-208d-45c2-b25d-4fa2d2621b53" name="Changes" comment="GithubActions Commit -- added build-github option for install script" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,7 +89,7 @@
       <workItem from="1673997957009" duration="2642000" />
       <workItem from="1674058166940" duration="1758000" />
       <workItem from="1674077268876" duration="210000" />
-      <workItem from="1674517587624" duration="5383000" />
+      <workItem from="1674517587624" duration="5532000" />
     </task>
     <task id="LOCAL-00001" summary="2nd Commit to Support Section 15 GitHubActions">
       <created>1673998688060</created>
@@ -165,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674520591543</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="GithubActions Commit -- added build-github option for install script">
+      <created>1674576027539</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1674576027539</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,6 +193,7 @@
     <MESSAGE value="2nd Commit to Support Section 15 GitHubActions" />
     <MESSAGE value="Build pipeline workflow" />
     <MESSAGE value="v4" />
-    <option name="LAST_COMMIT_MESSAGE" value="v4" />
+    <MESSAGE value="GithubActions Commit -- added build-github option for install script" />
+    <option name="LAST_COMMIT_MESSAGE" value="GithubActions Commit -- added build-github option for install script" />
   </component>
 </project>

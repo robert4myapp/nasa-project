@@ -1,6 +1,6 @@
 const {getAllLaunches, scheduleNewLaunch, existsLaunchWithID, abortLaunchById} = require('../../models/launches.model');
 const {getPagination} = require('../../services/query');
-//just a name
+//just a name test
 async function httpGetAllLaunches(req, res) {
     console.log(req.query);
     const {skip, limit} = getPagination(req.query);
