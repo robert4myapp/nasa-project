@@ -14,9 +14,9 @@ describe('Launches API Test', () => {
     await mongoConnect();
     await loadPlanetsData();
     });
-    // afterAll(async ()=>{
-    //     await mongoDisconnect();
-    // });
+    afterAll(async ()=>{
+        await mongoDisconnect();
+    });
     describe('Test Get/launches', () => {
         test('Should respond with 200 success', async () => {
             const response = await request(app).get('/v1/launches').expect('Content-Type', /json/).expect(200);
